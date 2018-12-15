@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0">
+		<title>Weather Dashboard</title>
+		<link rel="stylesheet" type="text/css" href="dashboard.css" />
+	</head>
+	<body>
+		<img src="nashville.jpg">
+		<div class="is-embed">
+			<iframe src="https://iot.app.initialstate.com/embed/?org=iot#/tiles/bkt_ebon1jp1i2kqc"></iframe>
+		</div>
+
+		<form action="/dashboard" method="post" enctype="application/x-www-form-urlencoded">
+			<div>
+		        <label for="msg">Message:</label>
+		        <input type="text" id="msg" name="msg"/>
+		    </div>
+
+		    <div class="button">
+		        <button type="submit">Send</button>
+		    </div>
+		</form>
+
+	</body>
+</html>

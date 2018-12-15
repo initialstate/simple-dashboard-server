@@ -1,0 +1,16 @@
+{
+  "name": "dashboard_server",
+  "version": "1.0.0",
+  "description": "Simple Initial State Dashboard from iframe Embed Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamie Bailey",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "initial-state": "^0.2.0"
+  }
+}
