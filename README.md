@@ -1,6 +1,6 @@
 # Simple Dashboard Server
 
-This is a simple example a NodeJS server that hosts a webpage containing an Initial State iframe embed of a Tiles dashboard.
+This is a simple example a NodeJS server that hosts a local webpage containing an Initial State iframe embed of a Tiles dashboard.
 
 Also included is an example of using an HTML form to submit data to a nodejs server app that then sends the data to a specific Initial State data bucket.
 
