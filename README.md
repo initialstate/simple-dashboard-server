@@ -1,4 +1,5 @@
 # Simple Dashboard Server
+_by Jamie Bailey_
 
 ![Simple Dashboard Server Hero](https://github.com/InitialState/simple-dashboard-server/wiki/img/simple_tv_dashboard_hero.jpg)
 
