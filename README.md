@@ -3,7 +3,7 @@ _by Jamie Bailey_
 
 ![Simple Dashboard Server Hero](https://github.com/InitialState/simple-dashboard-server/wiki/img/simple_tv_dashboard_hero.jpg)
 
-This is a simple example a NodeJS server that hosts a local webpage containing an Initial State iframe embed of a Tiles dashboard.
+This is a simple example of a NodeJS server that hosts a local webpage containing an Initial State iframe embed of a Tiles dashboard.
 
 ## To Run
 
